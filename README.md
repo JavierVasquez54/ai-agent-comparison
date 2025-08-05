@@ -19,8 +19,8 @@ ai-agent-comparision/
 ├── autogen/     # AutoGen implementation
 ├── requirements.txt
 ├── .env.example
-├── README.md
-└── FRAMEWORK_COMPARISON.md  # <--- This file
+└──  README.md
+
 ```
 
 ---
